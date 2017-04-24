@@ -8,7 +8,7 @@
 | Redux            |     Sequelize          |   Algorithms    |   Test Driven Development|
 |   PostgreSQL|         webpack|          Python|  Agile Development  |
 
-</center> 
+</center>
 ### Technical Projects
 
 ##### Game Dash - Demo Lead / Full Stack Developer  <br/>https://github.com/bethea28/karmapoint
