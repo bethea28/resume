@@ -33,7 +33,7 @@ through meta-gaming.
 * Designed all features using React Native while following ES 6 style guide practices.
 
 ### Experience
-##### C4Q (Coalition For Queens) - Long Island City, NY July 2016 <br/> Full Stack Development Fellowship - Present
+##### C4Q (Coalition For Queens) - Long Island City, NY  <br/> Full Stack Development Fellowship  July 2016 - Present
 * Graduated from a highly competitive Google-funded software engineering program whose graduates have been
 hired as developers at leading companies such as Blue Apron, Jet, Capital One, and Spotify.
 * Completed an intensive 10-month project-based full stack web development curriculum designed by engineers
