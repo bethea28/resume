@@ -33,18 +33,18 @@ through meta-gaming.
 * Designed all features using React Native while following ES 6 style guide practices.
 
 ### Experience
-##### C4Q (Coalition For Queens), Long Island City, NY July 2016 – Present <br/>Full Stack Development Fellowship
+##### C4Q (Coalition For Queens) - Long Island City, NY July 2016 <br/> Full Stack Development Fellowship - Present
 * Graduated from a highly competitive Google-funded software engineering program whose graduates have been
 hired as developers at leading companies such as Blue Apron, Jet, Capital One, and Spotify.
 * Completed an intensive 10-month project-based full stack web development curriculum designed by engineers
 from Vice, Facebook, Yahoo, Artsy, and LinkedIn. Topics included Node, Express, React/Redux, PostgreSQL, git/github, TDD, build tools like webpack, data structures, algorithms, and tech principles and culture.
 
-##### The Moth Brand - Founder July 2012 - Present <br/>http://www.woodymoth.com
+##### The Moth Brand - Brooklyn, NY <br/>Founder July 2012 - Present <br/>http://www.woodymoth.com
 * Used Agile development practices to start a fashion and lifestyle company whose flagship product is Woody Moth,
 a collection of handcrafted wooden neck-ties and bow ties which gross $10,000 plus in annual sales.
 * Woody Moth is currently sold in local stores in New York, through Etsy, and through the Woody Moth website.
 
-##### Premier Recording Studios NY - Audio Engineer - Manhattan, NY July 2011 - December 2014
+##### Premier Recording Studios NY  - Manhattan, NY <br/>Audio Engineer July 2011 - December 2014
 * Implemented best practices in audio engineering to meet musicians’ recording and mixing needs.
 * Worked on a creative team including artists and producers to produce sound recordings.
 
