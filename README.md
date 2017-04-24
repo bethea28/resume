@@ -25,7 +25,7 @@ through meta-gaming.
 * Designed a feature that allows users to find nearby volunteer opportunities using the Bertha and ​OpenData ​API’s.
 * Spearheaded the tech team in constructing and presenting product demonstration.
 
-###### Appictionary - Sole Front-End Mobile Developer <br/>https://github.com/bethea28/reactnative
+##### Appictionary - Sole Front-End Mobile Developer <br/>https://github.com/bethea28/reactnative
 * Developed an iOS app that retrieves traditional and urban definitions, syllable count, synonyms,rhyming word, and a picture of the word that is being defined, based off user input.
 * Integrated various open source API's such as Pixabay, Pearson dictionary, Datamuse, and Big Huge Labs
 * Designed all features using React Native while following ES 6 style guide practices.
