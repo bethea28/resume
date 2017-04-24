@@ -1,11 +1,11 @@
 <!-- <center> -->
 
 
-| Tables        | Are           | Cool  | Cool  |
+| Skills
 | ------------- |:-------------:| -----:| -----:|
 | col 3 is      | right-aligned | $1600 |$1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| col 2 is      | centered      |   $12 |$1600 |
+| zebra stripes | are neat      |    $1 |$1600 |
 <!--
 | Java Script      | HTML & CSS3 & Sass| RESTful Web Services |  Public Speaking
 | ------------- |:-------------:| ------:|
