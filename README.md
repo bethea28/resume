@@ -10,6 +10,7 @@
 
 </center>
 ### Technical Projects
+
 ##### Game Dash - Demo Lead / Full Stack Developer  <br/>https://github.com/bethea28/karmapoint
 Developed a web application that consolidates 3rd party gaming tools to enable gamers to enhance their game play
 through meta-gaming.
@@ -46,7 +47,7 @@ a collection of handcrafted wooden neck-ties and bow ties which gross $10,000 pl
 * Implemented best practices in audio engineering to meet musicians’ recording and mixing needs.
 * Worked on a creative team including artists and producers to produce sound recordings.
 
-### EDUCATION
+### Education
 ##### ​University of North Carolina At Chapel Hill - Chapel Hill, NC July 2003 - May 2008
 * B.A. Interpersonal and Organizational Communication; B.A. African American Studies
 * Division I Student Athlete; UNC - Chapel Hill Tar Heel Football Team - 4 year letterman
