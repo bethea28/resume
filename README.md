@@ -1,11 +1,18 @@
 <!-- <center> -->
 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+<!--
 | Java Script      | HTML & CSS3 & Sass| RESTful Web Services |  Public Speaking
 | ------------- |:-------------:| ------:|
 | ES6      | Node      |   React Native |   Product Development |
 | React | Express      |    Data Structures | Pair Programming |
 | Redux            |     Sequelize          |   Algorithms    |   Test Driven Development |
-|          PostgreSQL|         webpack|          Python|  Agile Development  |
+|          PostgreSQL|         webpack|          Python|  Agile Development  | -->
 <!--
 </center> -->
 ### Technical Projects
@@ -31,7 +38,7 @@ through meta-gaming.
 * Designed all features using React Native while following ES 6 style guide practices.
 
 ### Experience
-##### C4Q (Coalition For Queens), Long Island City, NY July 2016 –           Present <br/>Full Stack Development Fellowship
+##### C4Q (Coalition For Queens), Long Island City, NY July 2016 – Present <br/>Full Stack Development Fellowship
 * Graduated from a highly competitive Google-funded software engineering program whose graduates have been
 hired as developers at leading companies such as Blue Apron, Jet, Capital One, and Spotify.
 * Completed an intensive 10-month project-based full stack web development curriculum designed by engineers
