@@ -5,8 +5,8 @@
 | ------------- |:-------------:| -----:| -----:|
 | ES6      | Node      |   React Native |   Product Development|
 | React | Express      |    Data Structures | Pair Programming|
-| zebra stripes | are neat      |    $1 |$1600 |
-| zebra stripes | are neat      |    $1 |$1600 |
+| Redux            |     Sequelize          |   Algorithms    |   Test Driven Development|
+|   PostgreSQL|         webpack|          Python|  Agile Development  |
 <!--
 | Java Script      | HTML & CSS3 & Sass| RESTful Web Services |  Public Speaking
 | ------------- |:-------------:| ------:|
