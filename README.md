@@ -1,7 +1,7 @@
 <!-- <center> -->
 
 
-| Tables        | Are           | Cool  | Cool  |
+|   Java Script      | HTML & CSS3 & Sass| RESTful Web Services |  Public Speaking
 | ------------- |:-------------:| -----:| -----:|
 | col 3 is      | right-aligned | $1600 |$1600 |
 | col 2 is      | centered      |   $12 |$1600 |
