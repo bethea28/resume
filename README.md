@@ -5,8 +5,7 @@
   | ES6      | Node      |   React Native |   Product Development|
   | React | Express      |    Data Structures | Pair Programming|
   | Redux            |     Sequelize          |   Algorithms    |   Test Driven Development|
-  |   PostgreSQL|         webpack|          Python|  Agile Development  |
-  </center>
+  |   PostgreSQL|         webpack|          Python|  Agile Development  | </center>
 
 
 ### Technical Projects
