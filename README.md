@@ -8,6 +8,7 @@
   |   PostgreSQL|         webpack|          Python|  Agile Development  |
 
   </div>
+  
 ### Technical Projects
 
 ##### Game Dash - Demo Lead / Full Stack Developer  <br/>https://github.com/bethea28/karmapoint
