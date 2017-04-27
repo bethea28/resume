@@ -1,4 +1,4 @@
-<div>
+
 
 <center>  |   Java Script      | HTML & CSS3 & Sass| RESTful Web Services |  Public Speaking
   | :-------------: |:-------------:| :-----:| :-----:|
@@ -6,8 +6,8 @@
   | React | Express      |    Data Structures | Pair Programming|
   | Redux            |     Sequelize          |   Algorithms    |   Test Driven Development|
   |   PostgreSQL|         webpack|          Python|  Agile Development  |
+  </center>
 
-  </div>
 
 ### Technical Projects
 
