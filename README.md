@@ -1,6 +1,6 @@
 <div>
 
-  |   Java Script      | HTML & CSS3 & Sass| RESTful Web Services |  Public Speaking
+<center>  |   Java Script      | HTML & CSS3 & Sass| RESTful Web Services |  Public Speaking
   | :-------------: |:-------------:| :-----:| :-----:|
   | ES6      | Node      |   React Native |   Product Development|
   | React | Express      |    Data Structures | Pair Programming|
@@ -8,7 +8,7 @@
   |   PostgreSQL|         webpack|          Python|  Agile Development  |
 
   </div>
-  
+
 ### Technical Projects
 
 ##### Game Dash - Demo Lead / Full Stack Developer  <br/>https://github.com/bethea28/karmapoint
