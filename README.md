@@ -6,9 +6,8 @@
   | ES6      | Node      |   React Native |   Product Development|
   | React | Express      |    Data Structures | Pair Programming|
   | Redux            |     Sequelize          |   Algorithms    |   Test Driven Development|
-  |   PostgreSQL|         webpack|          Python|  Agile Development  |
+  |   PostgreSQL|         webpack|          Python|  Agile Development  |</center>
 
-</center>
 
 ### Technical Projects
 
@@ -44,7 +43,7 @@ from Vice, Facebook, Yahoo, Artsy, and LinkedIn. Topics included Node, Express, 
 a collection of handcrafted wooden neck-ties and bow ties which gross $10,000 plus in annual sales.
 * Woody Moth is currently sold in local stores in New York, through Etsy, and through the Woody Moth website.
 
-##### Premier Recording Studios NY  - Manhattan, NY - July 2011 - December 2014  <br/>Audio Engineer 
+##### Premier Recording Studios NY  - Manhattan, NY - July 2011 - December 2014  <br/>Audio Engineer
 * Implemented best practices in audio engineering to meet musicians’ recording and mixing needs.
 * Worked on a creative team including artists and producers to produce sound recordings.
 
