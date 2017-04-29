@@ -1,4 +1,4 @@
-
+  <center>
 
  |   Java Script      | HTML & CSS3 & Sass| RESTful Web Services |  Public Speaking
   | :-------------: |:-------------:| :-----:| :-----:|
